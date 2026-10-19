@@ -6,8 +6,13 @@ import './App.css'
 
 function App() {
   return (
-    <h1>Mi Proyecto Front React</h1>
+    <div>
+      <h1>Mi Proyecto Front React</h1>
+      <p>Primer cambio- Michael Gonzalez</p>
+      <p>cambio(Emmanuel Isaza)</p>
+    </div>
   );
 }
+
 
 export default App
