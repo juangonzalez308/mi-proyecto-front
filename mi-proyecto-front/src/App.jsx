@@ -7,6 +7,7 @@ import './App.css'
 function App() {
   return (
     <h1>Mi Proyecto Front React</h1>
+    <p>cambio(Emmanuel Isaza)</p>
   );
 }
 
